@@ -1,0 +1,6 @@
+django
+django-cotton
+django-htmx
+django-extensions
+django-filter
+django-import-export
